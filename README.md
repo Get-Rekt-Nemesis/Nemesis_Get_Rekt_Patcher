@@ -16,7 +16,9 @@ Use this Discord ID : 1
 type anything on token input : a
 
 Then login
+
 Click Redownload Mods
+
 Then Start Game
 
 Happy Cheating
